@@ -12,14 +12,7 @@ A DataFrame is a two-dimensional data structure in Pandas. It looks similar to a
 * Pandas
 * Jupyter Notebook / VS Code
 
-## 📂 Project Structure
 
-```text
-DataFrame-Project/
-│
-├── dataframe.ipynb
-├── data.csv
-└── README.md
 ```
 
 ## 🚀 Getting Started
